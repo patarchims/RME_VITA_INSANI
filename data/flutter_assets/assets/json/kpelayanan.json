@@ -1,0 +1,155 @@
+{
+  "response": [
+    {
+      "kd_bagian": "-",
+      "bagian": "-----PILIH BAGIAN-----",
+      "pelayanan": "",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "OK0001",
+      "bagian": "Kamar Bedah",
+      "pelayanan": "KAMAR BEDAH",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "PERI",
+      "bagian": "Perina",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "POL034",
+      "bagian": "Klinik Radiologi",
+      "pelayanan": "POLIKLINIK",
+      "maping_bpjs": "RAD",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "RECO",
+      "bagian": "Recovery Room",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "RME001",
+      "bagian": "Rekam Medik",
+      "pelayanan": "REKAM MEDIK",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "RUBY",
+      "bagian": "Ruby",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "SAFI",
+      "bagian": "Safir",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "VK0001",
+      "bagian": "Kamar Bersalin",
+      "pelayanan": "KAMAR BERSALIN",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "NEON",
+      "bagian": "Neonatal",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "MELA",
+      "bagian": "Melati",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "MAWA",
+      "bagian": "Mawar",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "CEDR",
+      "bagian": "Cendrawasi",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "CEND",
+      "bagian": "Cendana",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "EMER",
+      "bagian": "Emerald",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "GIZ001",
+      "bagian": "Instalasi / Konsultasi Gizi",
+      "pelayanan": "PENUNJANG MEDIK",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "ICU",
+      "bagian": "ICU",
+      "pelayanan": "ICU",
+      "maping_bpjs": "ICU",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "IFRS01",
+      "bagian": "Instalasi Farmasi",
+      "pelayanan": "INSTALASI FARMASI",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "IGD001",
+      "bagian": "Instalasi Gawat Darurat",
+      "pelayanan": "IGD",
+      "maping_bpjs": "IGD",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "MAHO",
+      "bagian": "Mahoni",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    },
+    {
+      "kd_bagian": "ANGG",
+      "bagian": "Anggrek",
+      "pelayanan": "NURSE STATION",
+      "maping_bpjs": "",
+      "asesmen_active": true
+    }
+  ],
+  "metadata": {
+    "message": "Ok",
+    "code": 200
+  }
+}
